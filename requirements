@@ -1,0 +1,5 @@
+To run this script, you must have the following Python Packages: 
+
+1. SpaCy
+2. An at least basic SpaCy model, like 'en'. 
+3. Heapq
